@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/biography/static/css/main.80c6ce8f.css",
+    "main.js": "/biography/static/js/main.2ba5f555.js",
+    "index.html": "/biography/index.html",
+    "main.80c6ce8f.css.map": "/biography/static/css/main.80c6ce8f.css.map",
+    "main.2ba5f555.js.map": "/biography/static/js/main.2ba5f555.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c6ce8f.css",
+    "static/js/main.2ba5f555.js"
+  ]
+}
